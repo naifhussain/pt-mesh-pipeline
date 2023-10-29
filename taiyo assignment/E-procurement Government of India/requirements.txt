@@ -1,0 +1,23 @@
+Web Scraping for eTenders Data
+
+This Python script scrapes data from the eTenders website (https://etenders.gov.in/eprocure/app) and extracts information about tender titles, reference numbers, closing dates, and bid opening dates. The scraped data is stored in a CSV file named "Tender_Data.csv."
+
+Requirements:
+
+1. Python Version:
+	Python 3.6 or higher is required.
+
+2. Libraries:
+
+	beautifulsoup4: Used for web scraping.
+
+	requests: Used for making HTTP requests.
+
+	pandas: Used for data manipulation and CSV file creation.
+
+
+Additional Notes:
+
+	Ensure that you have a stable internet connection to access the eTenders website.
+
+	The script is tailored for scraping data from the eTenders website. Make sure the website structure 	remains consistent for the script to work.

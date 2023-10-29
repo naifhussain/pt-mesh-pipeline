@@ -1,0 +1,21 @@
+World Bank Tender Data Scraper
+
+This Python script scrapes tender data from the World Bank website and stores it in a CSV file for further analysis.
+
+Requirements:
+
+1. Python Version:
+   - Python 3.6 or higher is required.
+
+2. Libraries:
+
+	beautifulsoup4: Used for web scraping.
+
+	pandas: Used for data manipulation and CSV file creation.
+
+	requests: Used for making HTTP requests.
+
+Additional Notes:
+
+Ensure that you have a stable internet connection to access the World Bank website.
+Make sure the URL provided is up-to-date and accessible.

@@ -1,0 +1,28 @@
+Script Name: China Bidding Project Data Scraper
+
+Description: This Python script is designed to scrape project data from the China Bidding websites.
+
+Requirements:
+
+1. Python Version:
+   - Python 3.6 or higher is required for running this script.
+
+2. Libraries:
+
+beautifulsoup4: Used for web scraping.
+
+requests: Used for making HTTP requests.
+
+pandas: Used for data manipulation and CSV file creation.
+
+selenium: Used for web automation (for potential browser interaction).
+
+dateutil.parser: Used for parsing date formats.
+ 
+
+Additional Notes:
+
+Ensure that you have a stable internet connection to access the China Bidding website.
+
+The script uses POST requests to retrieve data from the website. Make sure the website structure remains consistent for the script to work.
+
